@@ -1,4 +1,4 @@
-
+//RIZKYKA ATILA ZAKIYA_235150201111050
 package javaapplication20;
 
 import java.util.Scanner;
